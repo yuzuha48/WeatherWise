@@ -1,6 +1,12 @@
 # WeatherWise ☀️
 
+WeatherWise provides a four-day forecast for Minneapolis, Honolulu, New York, and Tokyo (I picked these cities because they are the cities in which I lived). 
 
+In this project I:
+
+- Employed JavaScript to enhance user experience including changing images, descriptions, and temperatures to reflect the appropriate weather conditions and updating the days of the week and the name of the city. 
+- Implemented a call to the Open Weather Map API to get the weather for today and the next three days.
+- Created a responsive front-end design using HTML and CSS. 
 
 ## Prerequisites
 

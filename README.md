@@ -1,6 +1,6 @@
 # WeatherWise ☀️
 
-WeatherWise provides a four-day forecast for Minneapolis, Honolulu, New York, and Tokyo (I picked these cities because they are the cities in which I have lived). 
+WeatherWise provides a four-day forecast for Minneapolis, Honolulu, New York, and Tokyo, cities chosen due to their personal significance in my life. 
 
 In this project I:
 

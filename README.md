@@ -8,6 +8,8 @@ In this project I:
 - Integrated an API request to Open Weather Map to get the weather for today and the next three days
 - Constructed a responsive front-end design using HTML and CSS
 
+<img width="1440" alt="weather_wise" src="https://github.com/yuzuha48/WeatherWise/assets/106595505/debd18e1-48ce-463c-be37-aa7e6cb85787">
+
 ## Prerequisites
 
 Ensure you have the following software installed on your machine:

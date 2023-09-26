@@ -4,9 +4,9 @@ WeatherWise provides a four-day forecast for Minneapolis, Honolulu, New York, an
 
 In this project I:
 
-- Leveraged JavaScript to enhance user experience including changing images, descriptions, and temperatures to reflect the appropriate weather conditions and updating the days of the week and the name of the city
-- Integrated an API request to Open Weather Map to get the weather for today and the next three days
-- Constructed a responsive front-end design using HTML and CSS
+- Integrated an API request to Open Weather Map to retrieve a four-day weather forecast for multiple locations
+- Leveraged JavaScript to improve UI by changing images, descriptions, and temperatures to reflect the appropriate weather conditions and enabling seamless conversion between Fahrenheit and Celsius 
+- Developed an adaptable front-end design using HTML and CSS
 
 <img width="1440" alt="weather_wise" src="https://github.com/yuzuha48/WeatherWise/assets/106595505/debd18e1-48ce-463c-be37-aa7e6cb85787">
 

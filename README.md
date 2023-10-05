@@ -8,7 +8,7 @@ In this project I:
 - Leveraged JavaScript to improve UI by changing images, descriptions, and temperatures to reflect the appropriate weather conditions and enabling seamless conversion between Fahrenheit and Celsius 
 - Developed an adaptable front-end design using HTML and CSS
 
-<img width="1440" alt="weather_wise" src="https://github.com/yuzuha48/WeatherWise/assets/106595505/debd18e1-48ce-463c-be37-aa7e6cb85787">
+<img width="1439" alt="weather_wise" src="https://github.com/yuzuha48/WeatherWise/assets/106595505/38f5f873-2fa7-42e0-bcde-30fc595b311e">
 
 ## Prerequisites
 
